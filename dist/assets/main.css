@@ -1,0 +1,1 @@
+.button{padding:.375rem .75rem;position:relative;display:-webkit-box;display:flex;border:1px solid #555;border-radius:.25rem;cursor:pointer}.button:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.button:active{outline:0}.button:disabled{cursor:default;border-color:gray;opacity:.65;box-shadow:none}
